@@ -1,1 +1,5 @@
 # Created by Terraform
+
+image:
+  repository: nginx
+  tag: v1
