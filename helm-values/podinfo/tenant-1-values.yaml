@@ -2,6 +2,7 @@
 
 enabled: true
 
-replicaCount: 2
-ui:
-  message: "Changes UI"
+tarikur:
+  replicaCount: 5
+  ui:
+    message: "Changes UI"
