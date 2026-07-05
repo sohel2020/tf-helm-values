@@ -2,7 +2,7 @@
 
 enabled: true
 
-tarikur:
+podinfo:
   replicaCount: 5
   ui:
-    message: "Changes UI"
+    message: "helm values override from tf-helm-values UI"
