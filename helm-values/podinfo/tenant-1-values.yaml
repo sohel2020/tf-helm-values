@@ -2,6 +2,6 @@
 
 enabled: true
 
-replicaCount: 10
+replicaCount: 2
 ui:
-  message: "msg from artifact"
+  message: "Changes UI"
