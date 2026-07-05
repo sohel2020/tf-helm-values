@@ -1,3 +1,7 @@
 # Created by Terraform
 
 enabled: true
+
+podinfo:
+  ui:
+    message: "msg from artifact"
