@@ -1,7 +1,5 @@
 # Created by Terraform
 
-enabled: true
-
 podinfo:
   replicaCount: 5
   ui:
