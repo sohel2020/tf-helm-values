@@ -3,6 +3,7 @@
 enabled: true
 
 podinfo:
+  enabled: true
   replicaCount: 5
   ui:
     message: "helm values override from tf-helm-values UI"
