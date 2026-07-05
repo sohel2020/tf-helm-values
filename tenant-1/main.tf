@@ -5,6 +5,6 @@ module "helm_values" {
   github_repository = "tf-helm-values"
   git_ref           = "main"
   helm_values_path  = "helm-values"
-  cluster_name      = "my-cluster"
+  cluster_name      = "tenant-1"
 }
 
