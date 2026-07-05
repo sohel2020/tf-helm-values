@@ -5,8 +5,3 @@ enabled: true
 replicaCount: 3
 ui:
   message: "msg from artifact"
-
-podinfo:
-  replicaCount: 5
-  ui:
-    message: "msg from artifact"
