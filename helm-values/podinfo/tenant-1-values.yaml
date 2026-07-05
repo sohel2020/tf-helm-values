@@ -3,5 +3,6 @@
 enabled: true
 
 podinfo:
+  replicaCount: 5
   ui:
     message: "msg from artifact"
