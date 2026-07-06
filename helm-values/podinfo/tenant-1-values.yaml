@@ -1,6 +1,6 @@
 # Created by Terraform
 
 podinfo:
-  replicaCount: 5
+  replicaCount: 6
   ui:
     message: "helm values override from tf-helm-values UI"
